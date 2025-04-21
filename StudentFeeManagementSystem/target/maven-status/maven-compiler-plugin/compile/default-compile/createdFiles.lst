@@ -1,0 +1,10 @@
+com\mycompany\studentfeemanagementsystem\Course.class
+com\mycompany\studentfeemanagementsystem\Department.class
+com\mycompany\studentfeemanagementsystem\FeeSlip.class
+com\mycompany\studentfeemanagementsystem\schoolName.class
+com\mycompany\studentfeemanagementsystem\Student.class
+com\mycompany\studentfeemanagementsystem\FeeDetails.class
+com\mycompany\studentfeemanagementsystem\Instructor.class
+com\mycompany\studentfeemanagementsystem\FeeManager.class
+com\mycompany\studentfeemanagementsystem\Person.class
+com\mycompany\studentfeemanagementsystem\StudentFeeManagementSystem.class
